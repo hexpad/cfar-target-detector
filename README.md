@@ -140,3 +140,7 @@ g++ -std=c++17 main.cpp -o cfar
 ```
 
 After running the program, `cfar_results.csv` is created in the same folder.
+
+# Source Code
+
+https://github.com/hexpad/cfar-target-detector/blob/main/main.cpp
